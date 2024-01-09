@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/3386b473-80b4-4751-bf9f-74bab7f0ba47/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/azcode-airline-backend",
+    "appService.deploySubpath": "."
+}
