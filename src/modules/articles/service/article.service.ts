@@ -10,7 +10,7 @@ export class ArticleService {
     constructor() {}
 
     registerArticle(article: ArticleDto): string {
-        return `El valor de su equipaje es: 
+        return `El valor de sus artículos es: 
          ${this.getReservationValue(article).value} USD
          su descuento fué de ${this.getReservationValue(article).discount} USD`;
     }
